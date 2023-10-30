@@ -1,4 +1,4 @@
-# dendenliit
+# dendeniliit
 ## Personal
 
 ✨ Hello, my name is Den 
