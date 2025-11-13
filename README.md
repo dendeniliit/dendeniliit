@@ -9,3 +9,4 @@
   
 🤝 I'm up for discussions and collaborations with fellow enthusiasts in the tech world. 
 
+![Uploading gitbuilding.gif…]()
